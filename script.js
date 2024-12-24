@@ -1,4 +1,4 @@
-// script.js
+
 document.addEventListener("DOMContentLoaded", () => {
     const cells = document.querySelectorAll(".cell");
     const status = document.getElementById("status");
